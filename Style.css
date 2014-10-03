@@ -1,8 +1,9 @@
 .intro-message {
-	text-align: center;
+	text-align: center center; 
 	padding-top: 20%;
 	padding-bottom: 10%;
-	color: #fff;
+	padding-left: 20%;
+	color: #fff; 
 }
 body {
 	background: url(1401124363361.jpg) no-repeat center center;
