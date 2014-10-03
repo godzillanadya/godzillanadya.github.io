@@ -14,8 +14,9 @@ body {
 	text-align: center;
 }
 .email-box {
-	padding-left: 40%;
-	padding-right:60%;
+	text-align: center;
+	padding-left: 30%;
+	padding-right: 30%;
 }
 .toggle-menu {
 float:left;
