@@ -1,0 +1,1 @@
+$('.dropdown-toggle').dropdown(More Horses)
