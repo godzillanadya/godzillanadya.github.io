@@ -7,7 +7,13 @@
 	font-size: 70px;
 }
 body {
-	background: url(1401124363361.jpg) no-repeat center center;
+	background: url(1401124363361.jpg) no-repeat center; 
+	background-size: 1300px 850px
+} 
+	
+}
+.jumbotron1 {
+	text-align: center;
 }
 .signup-form {
 	color: #000;
@@ -17,11 +23,4 @@ body {
 	text-align: center;
 	padding-left: 30%;
 	padding-right: 30%;
-}
-.toggle-menu {
-float:left;
-    margin-right:10px;
-    position:relative;
-    display: block; position: absolute;
-
 }
